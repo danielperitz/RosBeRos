@@ -5,4 +5,5 @@ shift
 spacebar
 fn
 enter
+caps lock
 end
