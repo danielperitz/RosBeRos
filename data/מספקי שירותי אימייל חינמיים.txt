@@ -1,13 +1,15 @@
 מספקי שירותי אימייל חינמיים
-יאהו
-גימייל
-זוהו
-מייל
+yahoo
+google
+zoho
+mail
 אאוטלוק
 AOL
 YANDEX
-Lycos
 Proton
 טוטנוטה
 iCloud
+walla
+nana
+microsoft
 end
