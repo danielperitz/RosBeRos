@@ -6,4 +6,7 @@ spacebar
 fn
 enter
 caps lock
+page down
+insert
+delete
 end
