@@ -1,9 +1,9 @@
 מבנה המחשב רכיבי חומרה עיקריים
-לוח אם
+motherboard
 CPU
 GPU
 ספק כוח
 RAM
-כונן קשיח
+hard drive
 SSD
 end
