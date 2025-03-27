@@ -1,6 +1,6 @@
 אפליקציות מוכרות השייכות לגוגל
 youtube
-גgoogle chat
+google chat
 google chrome
 google wallet
 google translate
@@ -12,4 +12,5 @@ waze
 google sheets
 google maps
 google music
+google play
 end
