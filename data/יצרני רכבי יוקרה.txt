@@ -1,15 +1,20 @@
 יצרני רכבי יוקרה
-אאורוס
-פרארי
-למבורגיני
-פורשה
+aurus
+ferrari
+lamborghini
+porsche
 BMW
-אאודי
-אקורה
-מזראטי
-מייבאך
+audi
+maserati
+maybach
 מינרבה
-רובר
-רולס-רויס
-פולסטאר
+rolls royce
+mercedes
+tesla
+jaguar
+bentley
+infiniti
+aston martin
+cadillac
+volvo
 end
