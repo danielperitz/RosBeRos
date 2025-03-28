@@ -1,10 +1,12 @@
 אפליקציות פופולריות לשיחות וידאו
-זום
-פייסבוק
-פייסטיים
-ווצאפ
-הנגאוטס
-סקייפ
-דיסקורד
-ויבר
+zoom
+facetime
+whatsapp
+facebook
+instagram
+hangouts
+imo
+skype
+ooVoo
+viber
 end
