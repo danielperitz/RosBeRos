@@ -9,4 +9,5 @@ caps lock
 page down
 insert
 delete
+tab
 end
