@@ -1,11 +1,17 @@
 משחקי מחשב פופולריים
 gta
 fifa
-פורטנייט
-דום
-קאפהד
-רוקט ליג
+foortnite
+doom
+cuphead
+rocket league
 דיאבלו
-מיינקראפט
+minecraft
 מורטל קומבת
+counter strike
+pubg
+call of duty
+league of legends
+the legend of zelda
+overwatch
 end
