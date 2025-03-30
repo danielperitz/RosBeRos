@@ -4,6 +4,7 @@ facetime
 whatsapp
 facebook
 instagram
+snapchat
 hangouts
 imo
 skype
