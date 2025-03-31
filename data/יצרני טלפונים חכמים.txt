@@ -1,15 +1,15 @@
 יצרני טלפונים חכמים
-אסוס
+asus
 LG
 samsung
 apple
 nokia
 xiaomi
-פוגיטסו
-מייזו
-לנובו
-וואן
-סוני
+fujitsu
+meizu
+lenovo
+oneplus
+sony
 motorola
 HTC
 google
