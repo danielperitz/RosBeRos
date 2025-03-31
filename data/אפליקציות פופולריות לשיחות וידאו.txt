@@ -10,6 +10,7 @@ imo
 skype
 ooVoo
 viber
+tango
 discord
 google duo
 end
