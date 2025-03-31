@@ -5,8 +5,7 @@ zoho
 mail
 AOL
 YANDEX
-Proton
-iCloud
+apple
 walla
 nana
 microsoft
