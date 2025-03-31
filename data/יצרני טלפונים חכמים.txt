@@ -3,7 +3,7 @@
 LG
 samsung
 apple
-נוקיה
+nokia
 xiaomi
 פוגיטסו
 מייזו
@@ -12,4 +12,6 @@ xiaomi
 סוני
 motorola
 HTC
+google
+blackberry
 end
