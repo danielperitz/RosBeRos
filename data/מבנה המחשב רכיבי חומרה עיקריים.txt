@@ -3,7 +3,7 @@ motherboard
 CPU
 GPU
 ספק כוח
-RAM
-hard drive
-SSD
+RAM?
+hard drive?
+SSD?
 end
