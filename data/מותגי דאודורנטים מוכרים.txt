@@ -3,5 +3,6 @@ dove
 axe
 vichy
 gillette
-SeixCalm
+adidas
+דר פישר?
 end
