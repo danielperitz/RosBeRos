@@ -7,7 +7,6 @@ BMW
 audi
 maserati
 maybach
-מינרבה
 rolls royce
 mercedes
 tesla
@@ -17,4 +16,5 @@ infiniti
 aston martin
 cadillac
 volvo
+audi
 end
