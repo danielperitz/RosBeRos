@@ -15,4 +15,5 @@ lovely
 hater
 meetwo
 blonde
+dare
 end
